@@ -1,1 +1,1 @@
-# missu.github.io
+_config.yml
